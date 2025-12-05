@@ -12,3 +12,8 @@ Intialized empty git repository in /.git/
 ``` javascript
 var myVar = "Hellow, world";
 ```
+
+- [x] List syntax is required
+- [x] this item is complete
+- [ ] This item is not complete
+
